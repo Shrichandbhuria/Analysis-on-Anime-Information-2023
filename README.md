@@ -3,7 +3,7 @@
 ## Overview
 
 This project analyzes anime industry trends and viewer engagement using the Anime Information dataset. The dataset contains comprehensive information about various attributes of anime shows, such as titles, genres, episodes, ratings, popularity, and more.
-<img src="Anime_image.jpeg" aling="center">
+<img src="Anime_image.jpg" aling="center">
 
 ## Dataset Information
 
